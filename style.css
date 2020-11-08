@@ -1,0 +1,28 @@
+#search-wrapper {
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
+
+#search-wrapper input {
+    width: 99%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    border: 1px solid lightgray;
+    border-radius: 0 0 5px 5px;
+    cursor: pointer;
+}
+
+ul li {
+    list-style-type: none;
+    line-height: 24px;
+    padding-left: 10px;
+}
+
+ul li:hover {
+    background-color: rgb(238, 238, 238);
+}
